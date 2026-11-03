@@ -54,17 +54,26 @@ B.Tech CSE Student | Java & DSA | Cloud & DevOps
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhinna123&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+---
 
-### 🔗 Connect With Me
+### 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/abhinna123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinna-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Abhinna_Singh_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="mailto:singhabhinna2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/abhinna123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
