@@ -68,13 +68,19 @@ My Java Data Structures and Algorithms practice repository.
 
 **Tech:** Java
 
-📈 Contribution Activity
+---
+
+<h2 align="center">📈 GitHub Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinna123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img
+    src="https://ghchart.xqsit94.in/dark:4ade80/abhinna123"
+    alt="Abhinna's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
-⸻
+---
 
 🤝 Connect With Me
 
