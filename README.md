@@ -30,17 +30,17 @@
 
 ⸻
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhinna123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinna123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhinna123&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhinna123&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhinna123&theme=tokyonight&hide_border=true" width="70%" />
 </p>
-
-⸻
 
 💻 LeetCode Statistics
 
@@ -50,18 +50,23 @@
 
 ⸻
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/abhinna123/BoiPara-Nexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinna123&repo=BoiPara-Nexus&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/abhinna123/Java-DSA-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinna123&repo=Java-DSA-Practice&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+### 📚 BoiPara Nexus
+A smart academic heritage platform for discovering and buying/selling books.
 
-⸻
+[View Project →](https://github.com/abhinna123/BoiPara-Nexus)
+
+**Tech:** React | JavaScript
+
+---
+
+### ☕ Java DSA Practice
+My Java Data Structures and Algorithms practice repository.
+
+[View Project →](https://github.com/abhinna123/Java-DSA-Practice)
+
+**Tech:** Java
 
 📈 Contribution Activity
 
