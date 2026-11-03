@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinna Singh</h1>
 
 <h3 align="center">
-B.Tech CSE Student | Java & DSA Learner | Cloud & DevOps Enthusiast
+B.Tech CSE Student | Java & DSA | Cloud & DevOps
 </h3>
 
 <p align="center">
@@ -19,12 +19,28 @@ B.Tech CSE Student | Java & DSA Learner | Cloud & DevOps Enthusiast
 - 🎯 Working towards becoming a Software Engineer.
 
 ---
+---
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinna123&theme=tokyo-night&hide_border=true" width="100%"/>
+
+---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,git,github,vscode,aws,docker" />
 </p>
+
+---
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| BoiPara Nexus | Academic book marketplace | React, JavaScript |
+| RepoMedic AI | AI-powered repository analyzer | Python, AI |
+| Java DSA Practice | DSA problem solutions | Java |
 
 ---
 
